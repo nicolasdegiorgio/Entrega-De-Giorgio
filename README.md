@@ -1,4 +1,4 @@
-# Entrega-De-Giorgio
+# All Cars Detailing - Project by Nicolás De Giorgio
 Proyecto ACD (All Cars Detailing) para el proyecto final del curso de Python
 
 Bienvenido a mi primer entrega del proyecto final!
